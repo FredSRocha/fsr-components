@@ -62,6 +62,6 @@
 
 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
   
-[MIT License](https://github.com/fredsrocha/fsr-components/master/LICENSE "License").
+[MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License").
 
 </main>
