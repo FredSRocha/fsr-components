@@ -17,36 +17,53 @@
 5. [Top Banner](https://github.com/fredsrocha/fsr-top-banner/).
 6. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/).
 
-<div style="text-align: center;">
+[![Twitter Follow](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
+ 
+<hr>
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
+<table>
+  <thead>
+    <tr>
+      <th>Compatible browsers</th>
+      <th>Version</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="http://jcappsinc.com/assets/fsrcomponents/imgs/sites/github/compatible-browsers.png" alt="alt text" title="Compatible browsers."></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrome</td>
+      <td>53+</td>
+    </tr>
+    <tr>
+      <td>Firefox</td>
+      <td>37+</td>
+    </tr>
+    <tr>
+      <td>Internet Explorer</td>
+      <td>11+</td>
+    </tr>
+    <tr>
+      <td>Opera</td>
+      <td>39+</td>
+    </tr>
+    <tr>
+      <td>Safari</td>
+      <td>5.1+</td>
+    </tr>
+    <tr>
+      <td>Edge</td>
+      <td>14.14+</td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
+### Copyright and license
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
   
-<hr style="border: 0;border-top: 1px solid #eee;clear: both;margin: 40px 0;">
-
-<aside style="float: right;width: 50%;">
-
-  | Compatible browsers | Version  |
-  | ------------------- | -------: |
-  | ![alt text](http://jcappsinc.com/assets/fsrcomponents/imgs/sites/github/compatible-browsers.png "Compatible browsers.") | |
-  | Chrome              | 53+      |
-  | Firefox             | 37+      |
-  | Internet Explorer   | 11+      |
-  | Opera               | 39+      |
-  | Safari              | 5.1+     |
-  | Edge                | 14.14+   |
-
-</aside>
-
-<footer style="text-align: center;width: 50%;">
-
-  ### Copyright and license
-
-  [![Twitter Follow](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
-  
-  [MIT License.](https://github.com/fredsrocha/fsr-components/master/LICENSE)
-
-</footer>
+[MIT License.](https://github.com/fredsrocha/fsr-components/master/LICENSE)
 
 </main>
