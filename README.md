@@ -16,6 +16,7 @@
 4. [Smart Grid](https://github.com/fredsrocha/fsr-smart-grid/ "Smart Grid Component").
 5. [Top Banner](https://github.com/fredsrocha/fsr-top-banner/ "Top Banner Component").
 6. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
+7. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "Workflow - PUG, SCSS and CoffeeScript") with [AngularJS](https://github.com/angular/angular.js), [PUG](https://github.com/pugjs/pug/), [SCSS](https://github.com/sass/sass/) and [CoffeeScript](https://github.com/jashkenas/coffeescript/).
 
 [![FSR Components - Twitter](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
 
