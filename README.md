@@ -1,10 +1,10 @@
+<main style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size: 1rem;line-height: 1.5;color: #373a3c;background-color: #fff;">
+
 ![FSR Components for developers](http://jcappsinc.com/assets/fsrcomponents/imgs/favicons/favicon-96x96.png "FSR Components for developers")
 ![Author](https://img.shields.io/badge/author-@fredsrocha-1da1f2.svg?style=flat-square "Author")
 ![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
 ![Contact](https://img.shields.io/badge/slack-fsrcomponents.slack.com-56b68b.svg?style=flat-square "Contact")
-
-<main style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size: 1rem;line-height: 1.5;color: #373a3c;background-color: #fff;">
 
 # FSR Components
 
