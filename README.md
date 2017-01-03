@@ -18,8 +18,6 @@
 6. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
- 
-<hr>
 
 <table>
   <thead>
