@@ -28,8 +28,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="http://jcappsinc.com/assets/fsrcomponents/imgs/sites/github/compatible-browsers.png" alt="Compatible browsers" title="Compatible browsers"></td>
-      <td></td>
+      <td colspan="2"><img src="https://jcappsinc.com/assets/fsrcomponents/imgs/sites/github/compatible-browsers.png" alt="Compatible browsers" title="Compatible browsers"></td>
     </tr>
     <tr>
       <td>Chrome</td>
