@@ -13,10 +13,11 @@
 1. [Hack Browser CSS](https://github.com/fredsrocha/fsr-hack-browser-css/ "Hack Browser in CSS").
 2. [SAP Skeleton](https://github.com/fredsrocha/fsr-sap-skeleton/ "Skeleton for Single-Page Applications").
 3. [Side Nav](https://github.com/fredsrocha/fsr-side-nav/ "Side Nav Component").
-4. [Smart Grid](https://github.com/fredsrocha/fsr-smart-grid/ "Smart Grid Component").
-5. [Top Banner](https://github.com/fredsrocha/fsr-top-banner/ "Top Banner Component").
-6. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
-7. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Workflow") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
+4. [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49 "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data")).
+5. [Smart Grid](https://github.com/fredsrocha/fsr-smart-grid/ "Smart Grid Component").
+6. [Top Banner](https://github.com/fredsrocha/fsr-top-banner/ "Top Banner Component").
+7. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
+8. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Workflow") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
 
 [![FSR Components - Twitter](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
 
