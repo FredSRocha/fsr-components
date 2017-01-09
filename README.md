@@ -21,7 +21,7 @@
 8. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
 9. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Workflow") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
 
-## Gists
+## Gist
 1. [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5]
 2. [Style Guide CSS](https://gist.github.com/fredsrocha/f9b922cfeb35598954dfe41b99ec2a94/ "Style Guide CSS (Gist)").
 
