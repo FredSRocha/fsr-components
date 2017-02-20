@@ -23,7 +23,6 @@
 
 ## Gist
 1. [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data")).
-2. [Style Guide CSS](https://gist.github.com/fredsrocha/f9b922cfeb35598954dfe41b99ec2a94/ "Style Guide CSS (Gist)").
 
 [![FSR Components - Twitter](https://img.shields.io/twitter/follow/fsrcomponents.svg?style=social&label=Follow@FsrComponents)](https://twitter.com/fsrcomponents)
 
