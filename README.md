@@ -9,16 +9,13 @@
 :gem: Components for developers.
 
 1. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Workflow") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
-2. [Side Nav](https://github.com/fredsrocha/fsr-side-nav/ "Side Nav Component").
+2. [Side Nav and Top Banner Responsive](https://github.com/fredsrocha/fsr-side-nav/ "Side Nav and Top Banner Responsive").
 3. [Smart Grid](https://github.com/fredsrocha/fsr-smart-grid/ "Smart Grid Component").
 4. [Splash Page](https://github.com/fredsrocha/fsr-splash-page/ "Splash Page").
-5. [Top Banner](https://github.com/fredsrocha/fsr-top-banner/ "Top Banner Component").
-6. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
-7. [~Access Tools~](https://github.com/fredsrocha/fsr-components "discontinued").
-8. [~Framework CSS~](https://github.com/fredsrocha/fsr-components "discontinued").
-9. [~SAP Skeleton~](https://github.com/fredsrocha/fsr-components "discontinued").
-
-
+5. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
+6. [~Access Tools~](https://github.com/fredsrocha/fsr-components "discontinued").
+7. [~Framework CSS~](https://github.com/fredsrocha/fsr-components "discontinued").
+8. [~SAP Skeleton~](https://github.com/fredsrocha/fsr-components "discontinued").
 
 ## Gist
 1. [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data")).
@@ -63,6 +60,6 @@
 
 &copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
 
-[MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License")
+:fire: [MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License")
 
 </main>
