@@ -10,9 +10,9 @@
 
 1. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Workflow") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
 2. [Side Nav and Top Banner Responsive](https://github.com/fredsrocha/fsr-side-nav/ "Side Nav and Top Banner Responsive").
-3. [Smart Grid](https://github.com/fredsrocha/fsr-smart-grid/ "Smart Grid Component").
-4. [Splash Page](https://github.com/fredsrocha/fsr-splash-page/ "Splash Page").
-5. [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
+3. [Smart Grid Responsive](https://github.com/fredsrocha/fsr-smart-grid/ "Smart Grid Component").
+4. [Splash Page Responsive](https://github.com/fredsrocha/fsr-splash-page/ "Splash Page").
+5. [Top Bar Responsive](https://github.com/fredsrocha/fsr-top-bar/ "Top Bar Component").
 6. [~Access Tools~](https://github.com/fredsrocha/fsr-components "discontinued").
 7. [~Framework CSS~](https://github.com/fredsrocha/fsr-components "discontinued").
 8. [~SAP Skeleton~](https://github.com/fredsrocha/fsr-components "discontinued").
