@@ -6,7 +6,7 @@
 
 # FSR Components
 
-###### :gem: Components for developers.
+###### :gem: Components for developers. Choose your item and enjoy!
 
 1. [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Workflow") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system").
 2. [Side Nav and Top Banner Responsive](https://github.com/fredsrocha/fsr-side-nav-and-top-banner/ "Side Nav and Top Banner Responsive").
