@@ -20,43 +20,20 @@
 ## Gist
 1. [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data")).
 2. [Hack Browser CSS](https://gist.github.com/fredsrocha/f73f26fd39c976788166c4869b9ce239 "Hack Browser in CSS").
+## Browsers
 
-<table>
-  <thead>
-    <tr>
-      <th>Compatible browsers</th>
-      <th>Version</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Chrome</td>
-      <td>53+</td>
-    </tr>
-    <tr>
-      <td>Firefox</td>
-      <td>37+</td>
-    </tr>
-    <tr>
-      <td>Internet Explorer</td>
-      <td>11+</td>
-    </tr>
-    <tr>
-      <td>Opera</td>
-      <td>39+</td>
-    </tr>
-    <tr>
-      <td>Safari</td>
-      <td>5.1+</td>
-    </tr>
-    <tr>
-      <td>Edge</td>
-      <td>14.14+</td>
-    </tr>
-  </tbody>
-</table>
+| Compatible | Version |
+| ------ | ----------- |
+| Chrome | 53+ |
+| Firefox | 37+ |
+| Internet Explorer | 11+ |
+| Opera | 39+ |
+| Safari | 5.1+ |
+| Edge | 14.14+ |
 
 ## Copyright and License
+
+<img src="https://octodex.github.com/images/dojocat.jpg" alt="Copyright and License, The Dojocat"  width="150" height="150" />
 
 &copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
 
