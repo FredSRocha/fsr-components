@@ -1,8 +1,8 @@
 <main style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size: 1rem;line-height: 1.5;color: #373a3c;background-color: #fff;">
 
-![Author](https://img.shields.io/badge/author-@fredsrocha-1da1f2.svg?style=flat-square "Author")
-![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
+![Author](https://img.shields.io/badge/author-@fredsrocha-lightgrey.svg?style=flat-square&maxAge=2592000 "Author")
+![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&maxAge=2592000 "License")
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square&maxAge=2592000 "Version")
 
 # FSR Components
 
