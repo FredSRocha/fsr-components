@@ -21,6 +21,14 @@
 ## Gist
 1. [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data")).
 2. [Hack Browser CSS](https://gist.github.com/fredsrocha/f73f26fd39c976788166c4869b9ce239 "Hack Browser in CSS").
+
+## What's Next
+
+- [x] Create simple, easy-to-implement projects.
+- [ ] ~~Create Angular, Vue and React components of the projects developed~~ (DISCONTINUED).
+- [ ] ~~Create Node, Cloud and PHP APIs~~ (DISCONTINUED).
+- [ ] ~~Create Full-Stack Workflow Angular, Vue and React~~ (DISCONTINUED).
+
 ## Browsers
 
 | Compatible | Version |
