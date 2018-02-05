@@ -41,17 +41,17 @@
 
 :hatching_chick: [Top Bar Responsive](https://github.com/fredsrocha/fsr-top-bar/ "FSR Components - Top Bar, Menu, Responsive, Cross Browser.")
 
-:egg: [~Access Tools~](https://github.com/fredsrocha/fsr-components "discontinued").
+:egg: [~~Access Tools~~](https://github.com/fredsrocha/fsr-components "discontinued") (DISCONTINUED).
 
-:egg: [~Framework CSS~](https://github.com/fredsrocha/fsr-components "discontinued").
+:egg: [~~Framework CSS~~](https://github.com/fredsrocha/fsr-components "discontinued") (DISCONTINUED).
 
-:egg: [~SAP Skeleton~](https://github.com/fredsrocha/fsr-components "discontinued").
+:egg: [~~SAP Skeleton~~](https://github.com/fredsrocha/fsr-components "discontinued") (DISCONTINUED).
 
 ## Gist
 
-:hatching_chick: [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data")).
+:hatching_chick: [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data"))
 
-:hatching_chick: [Hack Browser CSS](https://gist.github.com/fredsrocha/f73f26fd39c976788166c4869b9ce239 "Hack Browser in CSS").
+:hatching_chick: [Hack Browser CSS](https://gist.github.com/fredsrocha/f73f26fd39c976788166c4869b9ce239 "Hack Browser in CSS")
 
 ## What's Next
 
