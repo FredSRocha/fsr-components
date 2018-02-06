@@ -51,6 +51,8 @@
 
 :hatching_chick: [Skeleton Page](https://gist.github.com/fredsrocha/a064b9dd9c91b87fabb4db4361a8aa49/ "Skeleton Page (Gist)") ([HTML5](https://www.w3.org/TR/html5/ "HTML5 reference") with Meta: [Open Graph](http://ogp.me/ "Open Graph website")/[Twitter Card](https://dev.twitter.com/cards/overview/ "Twitter Card Reference") and [JsonLD](http://schema.org/ "Structured Data"))
 
+:hatching_chick: [FSR Reset CSS](https://gist.github.com/fredsrocha/8c6119f5816df1378e10b1718c390e1b "FSR Reset CSS")
+
 :hatching_chick: [Hack Browser CSS](https://gist.github.com/fredsrocha/f73f26fd39c976788166c4869b9ce239 "Hack Browser in CSS")
 
 :hatching_chick: [Mobile First @media Concepts](https://gist.github.com/fredsrocha/b22ac113f06675bbd92db08e3cf1378d "@media Concepts CSS (Based on Mobile First)")
