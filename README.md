@@ -53,6 +53,8 @@
 
 :hatching_chick: [Hack Browser CSS](https://gist.github.com/fredsrocha/f73f26fd39c976788166c4869b9ce239 "Hack Browser in CSS")
 
+:hatching_chick: [Mobile First @media Concepts](https://gist.github.com/fredsrocha/b22ac113f06675bbd92db08e3cf1378d "@media Concepts CSS (Based on Mobile First)")
+
 ## What's Next
 
 - [x] Create simple, easy-to-implement projects.
