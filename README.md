@@ -9,7 +9,21 @@
 
 <img src="https://image.prntscr.com/image/cA3h4rwVSh_HhKQQfGl2Dw.png" alt="FSR Components - FSR Workflow, AngularJS, PUG, SCSS, CofeeScript, JavaScript, GulpJS, Side Nav and Top Banner, Smart Grid, Splash Page Video, Top Bar, Menu, Responsive, Cross Browser." />
 
-###### :gem: Choose your RESPONSIVE item and enjoy!
+<p align="center">
+  <p align="center">
+    Front-End components easy-to-implement for faster and easier web development.
+    <br>
+    <br>
+    <strong> :gem: Choose your RESPONSIVE item and enjoy!</strong>
+    <br>
+    <br>
+    <a href="https://codepen.io/FredSRocha/"><strong>CodepenIo</strong></a>
+    ·
+    <a href="https://twitter.com/FredSRocha/"><strong>Twitter</strong></a>
+    ·
+    <a href="https://www.linkedin.com/in/fredsrocha/"><strong>LinkedIn</strong></a>
+  </p>
+</p>
 
 ## Menu
 
