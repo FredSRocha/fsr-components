@@ -11,41 +11,70 @@
 
 ###### :gem: Choose your RESPONSIVE item and enjoy!
 
-## ➠ FSR Workflow :tada:
+## Menu
+
+- [FSR Workflow](#fsr-workflow) :tada:
+- [Side Nav and Top Banner](#side-nav-and-top-banner) :tada:
+- [Smart Grid](#smart-grid) :tada:
+- [Splash Page Video](#splash-page-video) :tada:
+- [Top Bar](#top-bar) :tada:
+- [WordPress](#wordpress) :tada:
+- [Gist](#gist) :tada:
+- [What's Next](#whats-next)
+- [Browsers](#browsers)
+- [Copyright and license](#copyright-and-license)
+
+## FSR Workflow
 
 <img src="https://image.prntscr.com/image/b6gUN0pZSYaCYOqTEQ3kmQ.png" alt="FSR Components - FSR Workflow, AngularJS, PUG, SCSS, CofeeScript, JavaScript, GulpJS, Cross Browser." />
 
 :hatching_chick: [Workflow](https://github.com/fredsrocha/fsr-workflow/ "FSR Components - FSR Workflow, AngularJS, PUG, SCSS, CofeeScript, JavaScript, GulpJS, Cross Browser.") with [AngularJS](https://github.com/angular/angular.js "AngularJS website"), [PUG](https://github.com/pugjs/pug/ "PUG template engine"), [SCSS](https://github.com/sass/sass/ "SASS Lang"), [CoffeeScript](https://github.com/jashkenas/coffeescript/ "CoffeeScript") and [GulpJS](https://github.com/gulpjs/gulp "The streaming build system")
 
-## ➠ Side Nav and Top Banner :tada:
+## Side Nav and Top Banner
 
 <img src="https://image.prntscr.com/image/kLOZLEyaQTKi67p35-aXzg.png" alt="Side Nav and Top Banner, Responsive, Cross Browser." />
 
 :hatching_chick: [Side Nav and Top Banner Responsive](https://github.com/fredsrocha/fsr-side-nav-and-top-banner/ "Side Nav and Top Banner, Responsive, Cross Browser.")
 
-## ➠ Smart Grid :tada:
+## Smart Grid
 
 <img src="https://image.prntscr.com/image/6vyL0DuhTfaAbSbTdl5ZJA.png" alt="FSR Components - Smart Grid, Responsive, Cross Browser." />
 
 :hatching_chick: [Smart Grid Responsive](https://github.com/fredsrocha/fsr-smart-grid/ "FSR Components - Smart Grid, Responsive, Cross Browser.")
 
-## ➠ Splash Page Video :tada:
+## Splash Page Video
 
 <img src="https://image.prntscr.com/image/I8f3izFkTy__P1Hz_M5nFQ.png" alt="FSR Components - Splash Page Video, Responsive, Cross Browser." />
 
 :hatching_chick: [Splash Page Responsive](https://github.com/fredsrocha/fsr-splash-page/ "FSR Components - Splash Page Video, Responsive, Cross Browser.")
 
-## ➠ Top Bar Component :tada:
+## Top Bar
 
 <img src="https://image.prntscr.com/image/8vApqOsiTAyijCNilm4zHw.png" alt="FSR Components - Top Bar, Menu, Responsive, Cross Browser." />
 
-:hatching_chick: [Top Bar Responsive](https://github.com/fredsrocha/fsr-top-bar/ "FSR Components - Top Bar, Menu, Responsive, Cross Browser.")
+:hatching_chick: [Top Bar](https://github.com/fredsrocha/fsr-top-bar/ "FSR Components - Top Bar, Menu, Responsive, Cross Browser.")
 
 :egg: [~~Access Tools~~](https://github.com/fredsrocha/fsr-components "discontinued") (DISCONTINUED).
 
 :egg: [~~Framework CSS~~](https://github.com/fredsrocha/fsr-components "discontinued") (DISCONTINUED).
 
 :egg: [~~SAP Skeleton~~](https://github.com/fredsrocha/fsr-components "discontinued") (DISCONTINUED).
+
+## WordPress
+
+## Menu
+
+- [Export Notes](#export-notes) :tada:
+- [YouTube Power Mobile](#youtube-power-mobile) :tada:
+
+
+## Export Notes
+
+... soon
+
+## YouTube Power Mobile
+
+... soon
 
 ## Gist
 
