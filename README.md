@@ -17,6 +17,8 @@
     <strong> :gem: Choose your RESPONSIVE item and enjoy!</strong>
     <br>
     <br>
+    <small>- more about the author -</small>
+    <br>
     <a href="https://codepen.io/FredSRocha/"><strong>CodepenIo</strong></a>
     ·
     <a href="https://twitter.com/FredSRocha/"><strong>Twitter</strong></a>
@@ -122,7 +124,7 @@
 
 <img src="https://octodex.github.com/images/dojocat.jpg" alt="Copyright and License, The Dojocat"  width="150" height="150" />
 
-&copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
+<strong>&copy; 2017 Fred Rocha</strong>
 
 :fire: [MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License") 🇧🇷 • :us:
 
