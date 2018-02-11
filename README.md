@@ -38,7 +38,7 @@
 - [Gist](#gist) :tada:
 - [What's Next](#whats-next)
 - [Browsers](#browsers)
-- [Copyright and license](#copyright-and-license)
+- [Copyright and License](#copyright-and-license)
 
 ## FSR Workflow
 
