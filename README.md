@@ -78,19 +78,29 @@
 
 ## WordPress
 
-## Menu
+### Menu
 
 - [Export Notes](#export-notes) :tada:
 - [YouTube Power Mobile](#youtube-power-mobile) :tada:
+- [Assistive Technology](#assistive-technology) :tada:
 
+## Assistive Technology
+
+<img src="https://image.prntscr.com/image/QTKVCKD8T_K-HQ29xzcAdw.png" alt="Assistive Technology." />
+
+On: ![JusBlog - O Blog jurídico para estudantes de Direito](https://jusblog.com/)
 
 ## Export Notes
 
-... JusBlog.Com
+<img src="https://image.prntscr.com/image/u_7O6vUOSNSNvw5wsEqJgQ.png" alt="Export Notes." />
+
+On: ![JusBlog - O Blog jurídico para estudantes de Direito](https://jusblog.com/)
 
 ## YouTube Power Mobile
 
-... JusBlog.Com
+<img src="https://image.prntscr.com/image/MOPD87quRFisq8Am12tjWA.png" alt="YouTube Power Mobile." />
+
+On: ![JusBlog - O Blog jurídico para estudantes de Direito](https://jusblog.com/)
 
 ## Gist
 
