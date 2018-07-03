@@ -90,19 +90,19 @@ My Plugins for WP.
 
 <img src="https://image.prntscr.com/image/QTKVCKD8T_K-HQ29xzcAdw.png" alt="Assistive Technology." />
 
-On :point_right: [JusBlog](https://jusblog.com/)
+:heavy_exclamation_mark: On: [JusBlog.Com](https://jusblog.com/)
 
 ## Export Notes
 
 <img src="https://image.prntscr.com/image/u_7O6vUOSNSNvw5wsEqJgQ.png" alt="Export Notes." />
 
-On :point_right: [JusBlog](https://jusblog.com/)
+:heavy_exclamation_mark: On: [JusBlog.Com](https://jusblog.com/)
 
 ## YouTube Power Mobile
 
 <img src="https://image.prntscr.com/image/MOPD87quRFisq8Am12tjWA.png" alt="YouTube Power Mobile." />
 
-On :point_right: [JusBlog](https://jusblog.com/)
+:heavy_exclamation_mark: On: [JusBlog.Com](https://jusblog.com/)
 
 ## Gist
 
