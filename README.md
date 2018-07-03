@@ -86,11 +86,11 @@
 
 ## Export Notes
 
-... soon
+... JusBlog.Com
 
 ## YouTube Power Mobile
 
-... soon
+... JusBlog.Com
 
 ## Gist
 
