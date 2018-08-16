@@ -136,7 +136,7 @@ My Plugins for WP.
 
 <img src="https://octodex.github.com/images/dojocat.jpg" alt="Copyright and License, The Dojocat"  width="150" height="150" />
 
-<strong>&copy; 2017 Fred Rocha</strong>
+<strong>&copy; 2018 Fred Rocha</strong>
 
 :fire: [MIT License](https://github.com/fredsrocha/fsr-components/blob/master/LICENSE "License") 🇧🇷 • :us:
 
