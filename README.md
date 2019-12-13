@@ -17,10 +17,9 @@
     <strong>satisfy your customers with accessibility and comfort</strong>
     <br>
     <br>
-    <small>- more about this project -</small>
-    <br>
     <a href="https://comunicavoice.jusblog.com"><strong>Demo</strong></a>
-    ·
+    <br>
+    <small>- more about this project -</small>
     <a href="https://www.producthunt.com/posts/comunica-voice"><strong>Product Hunt</strong></a>
   </p>
 </p>
