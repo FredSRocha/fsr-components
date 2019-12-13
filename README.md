@@ -19,6 +19,7 @@
     <br>
     <a href="https://comunicavoice.jusblog.com"><strong>Demo</strong></a>
     <br>
+    <br>
     <small>- more about this project -</small>
     <br>
     <a href="https://www.producthunt.com/posts/comunica-voice"><strong>Product Hunt</strong></a>
